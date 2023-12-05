@@ -1,5 +1,5 @@
 - # helo selamat datang
-- ##ini meupakan tugas pti saya i gede gaga
+- ini meupakan tugas pti saya i gede gaga
 - tugas pti GitHUB
 
 <!---
